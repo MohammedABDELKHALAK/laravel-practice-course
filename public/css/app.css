@@ -1,0 +1,32 @@
+
+.delete{
+    display: inline;
+}
+    
+.title{
+    text-decoration: none;
+}
+h1.h-index{
+    margin-top: 4px;
+    
+}
+/* span{
+    background-color:black; 
+    color:black; 
+    border-radius: 10%; 
+    padding:0px 20px 0px 20px 
+} */
+
+li{
+    text-decoration: none;
+}
+ 
+.badge > a {
+
+color: aliceblue;
+}
+
+.badge > a:hover {
+
+    color:aqua;
+    }
